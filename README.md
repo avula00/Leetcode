@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/avula00/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/avula00/Leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/avula00/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/avula00/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/avula00/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/avula00/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/avula00/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/avula00/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/avula00/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
