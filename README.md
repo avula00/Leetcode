@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avula00/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avula00/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avula00/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/avula00/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0861-flipping-an-image](https://github.com/avula00/Leetcode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/avula00/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0793-swap-adjacent-in-lr-string](https://github.com/avula00/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 <!---LeetCode Topics End-->
